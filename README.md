@@ -29,7 +29,8 @@ Aplicativo mobile completo com gerenciamento de contatos e bloco de notas, com b
 ## 🚀 Como Rodar
 
 ### Pré-requisitos
-- Flutter SDK 3.x instalado: https://flutter.dev/docs/get-started/install
+- Flutter SDK 3.41.9 (channel stable)
+- Dart 3.11.5
 - Android Studio ou VS Code com extensão Flutter
 - Dispositivo Android (físico ou emulador)
 
